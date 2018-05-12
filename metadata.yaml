@@ -1,10 +1,16 @@
 _repo: Church-Ministry-in-Kensington-A-Recent-Case-of-Hieratical-Teaching-Scripturally-Considered_49116
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gell, John Philip
     gutenberg_agent_id: '45149'
     url: http://www.gutenberg.org/2009/agents/45149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49116#Church-Ministry-in-Kensington-A-Recent-Case-of-Hieratical-Teaching-Scripturally-Considered
 gutenberg_issued: '2015-06-02'
 gutenberg_type: Text
 identifiers:
